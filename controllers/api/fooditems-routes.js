@@ -1,6 +1,6 @@
 let express = require("express");
 let router = express.Router();
-let items = require("../models/app.js");
+let items = require("../models/Fooditems");
 
 router.get("/", (req,res)=>{
     items.selectAll((data)=>{

@@ -1,3 +1,4 @@
+
 INSERT INTO foods (id, meal, calories)
 VALUES
   (1, 'pizza', 300),
@@ -5,3 +6,5 @@ VALUES
   (3, 'wings', 600),
   (4, 'apple pie', 900),
   (5, 'salad', 90);	
+
+const seedFoods = () => app.bulkCreate(appdata)
