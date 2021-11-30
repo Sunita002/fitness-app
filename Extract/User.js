@@ -8,7 +8,6 @@ class User extends Model {}
 // checkPassword(loginPw) {
 //     return bcrypt.compareSync(loginPw, this.password);
 
-// maybe add a field for calculated BMI using api calculator?
 User.init(
     {
         id: {
