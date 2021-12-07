@@ -66,7 +66,7 @@ The landing page for KiloCalorie. Click the Go! button to begin!<br><br>
 ![image](https://user-images.githubusercontent.com/87583026/144943955-aaea5362-b198-42f0-b08b-9121e4856cf7.png)<br>
 On the login and register page, users must first register with their personal health information and goals. All future visits will require a login.<br><br>
 
-![KiloCalorie Application Page](public/images/KCindexpgSCRNSHT.png)<br>
+![image](https://user-images.githubusercontent.com/87583026/144944093-07568f16-397f-4cab-866b-f41d415bc167.png)<br>
 Once in the calorie tracking section, a user can add, update, and delete daily food items. All added food items are added to the daily calorie total and displayed at the bottom of the screen. The logout button allows the next user to create their personal profile and begin adding their own protected health information and daily caloric intake.<br>
 
 ## [License](#license)
