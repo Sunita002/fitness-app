@@ -60,7 +60,7 @@ DB_SECRET='< your chosen cookie secret text >'
 Run your local KiloCalorie by executing `npm start` from the command line.
 
 ## [Usage](#usage)
-![image](https://user-images.githubusercontent.com/87583026/144943645-a27cbdec-b62f-4c0c-b1c1-5f222b12caa0.png)
+![image](https://user-images.githubusercontent.com/87583026/144943860-1c6a477a-7a43-426b-a9ab-83a71fd215b3.png)
 The landing page for KiloCalorie. Click the Go! button to begin!<br><br>
 
 ![KiloCalorie Login and Register Page](public/images/KCloginpgSCRNSHT.png)<br>
