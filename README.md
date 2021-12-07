@@ -63,7 +63,7 @@ Run your local KiloCalorie by executing `npm start` from the command line.
 ![image](https://user-images.githubusercontent.com/87583026/144943860-1c6a477a-7a43-426b-a9ab-83a71fd215b3.png)
 The landing page for KiloCalorie. Click the Go! button to begin!<br><br>
 
-![KiloCalorie Login and Register Page](public/images/KCloginpgSCRNSHT.png)<br>
+![image](https://user-images.githubusercontent.com/87583026/144943955-aaea5362-b198-42f0-b08b-9121e4856cf7.png)<br>
 On the login and register page, users must first register with their personal health information and goals. All future visits will require a login.<br><br>
 
 ![KiloCalorie Application Page](public/images/KCindexpgSCRNSHT.png)<br>
